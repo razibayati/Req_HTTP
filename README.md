@@ -17,7 +17,3 @@ response details:
 [[200 834]]
 2xx successful response 100.0 %
 
-Level 2:
-I dockerized my solution and the Dockerfileis presented in the repository. 
-
-Level3:
