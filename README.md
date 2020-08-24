@@ -1,8 +1,8 @@
 # Req_HTTP_finnai
-Level 1: I provided Python code 'FinnAI.py'. 
-It fires HTTP requests for 'timeout' seconds to a web page, and return the 'status_code'.
-It saves all status codes in a 'list' and saves the success amount of time in 'total_success' variable using elapsed method.
-Based on first digit of the status code calculates the count and percentage of different responses based on five classes defined by the standard:
+Level 1: I provided Python code 'FinnAI.py.' 
+It fires HTTP requests for 'timeout' seconds to a web page, and return the 'status_code.'
+It saves all status codes in a 'list' and keeps the success amount of time in the 'total_success' variable using the elapsed method.
+Based on the first digit of the status code calculates the count and percentage of different responses based on five classes defined by the standard:
 
 1xx informational response – the request was received, continuing process
 2xx successful – the request was successfully received, understood, and accepted
