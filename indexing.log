@@ -1,0 +1,32 @@
+Started
+[Sun Aug 23 14:57:46 PDT 2020] Starting branch indexing...
+[8mha:////4A81q6gMBWdTqz7BNkV3nHhGMqS7WGJqiLfDhYysxB2uAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHSJbPDFNAAYSgLdjgAAAA==[0mConnecting to https://api.github.com with no credentials, anonymous access
+[8mha:////4Pavpx4MbFIVfP6/HixD8V/7JnFbNpqeRzZ5T6B5mfTHAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHSJbPAldgAVSJrMjgAAAA==[0mJenkins-Imposed API Limiter: Current quota for Github API usage has 53 remaining (1 under budget). Next quota of 60 in 57 min
+Examining [8mha:////4NsFZoJOeB9xE/x6zjilwloXok6GyELk/HMYW6cR9ij8AAAArR+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMiQKmHQzSgpKSi20tdPzyzJKE0C6srVL0qsykxKrEwsydQPSi2M9wgJCYhPy8zLS8wEAHHH0Z2yAAAA[0mrazibayati/Req_HTTP_finnai
+
+  Checking branches...
+[8mha:////4ML9B8RfK93rmm4lDkYNA0/MSS5Qxhu8EdX5XqQbLHb4AAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHSJbPBlUQAcCDgmjgAAAA==[0mJenkins-Imposed API Limiter: Current quota for Github API usage has 50 remaining (2 over budget). Next quota of 60 in 57 min. Sleeping for 5 min 43 sec.
+[8mha:////4CkSmTUlGtR3/UmiMCWTZ4+zrbLmAqB4sM7STxv4TBUYAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHSJbPBlcQAwaTbIjgAAAA==[0mJenkins is attempting to evenly distribute GitHub API requests. To configure a different rate limiting strategy, such as having Jenkins restrict GitHub API requests only when near or above the GitHub rate limit, go to "GitHub API usage" under "Configure System" in the Jenkins settings.
+[8mha:////4F5NwUc5AeM6H3F1wtFQBCDepGqnVNd4UCN8WIiRORW2AAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHSJbNgkcwBX9fEcjgAAAA==[0mJenkins-Imposed API Limiter: Still sleeping, now only 2 min 43 sec remaining.
+[8mha:////4NfCkNXSPpzVsb8eQkzDYXiyQbmZmkzbvaHqtqRSUfnmAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHSJbKQAJwAIVXnfjgAAAA==[0mJenkins-Imposed API Limiter: Current quota for Github API usage has 50 remaining (2 under budget). Next quota of 60 in 51 min
+
+  Getting remote branches...
+
+    Checking branch [8mha:////4HBYZSEETN+9IGz2PSGdZAgdMC5+KCCrNdWVYKyXZkw+AAAAtx+LCAAAAAAAAP9djLENwjAQRY8gMgAlYoa4QwKUiiZIEUKQPnLgsA2OHewLShiDNaBhCMZhB4LoeM1/zX+PNwy8g7Gs996aaGeNtxqjpK3QaWVOK0s4ie/P+Fa9AgiWEGo0gmQK/dppgmF65BfONDeCbckpI+aNg9FfbvHbbwx+9AKApuokJJhKosrPGBOKZF10r5I5flUFbzkptsFznmTZOj8oY7hi5BBZyT2h+wD4K2V4vgAAAA==[0mmaster
+[8mha:////4Ioc1UWNkYrjeU5d5CAjivq/AQVjYro/BwYJOjGP6b7zAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHSJbKRQDwAlQJ1wjgAAAA==[0mJenkins-Imposed API Limiter: Current quota for Github API usage has 49 remaining (1 under budget). Next quota of 60 in 51 min
+
+  Getting remote pull requests...
+      ‘Jenkinsfile’ not found
+    Does not meet criteria
+[8mha:////4JJEhYP9+5IpMfYjwKraPzQdWkuSyqPeLT/wV2y5dLjCAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHSJbKTwUwCYqOhdjgAAAA==[0mJenkins-Imposed API Limiter: Current quota for Github API usage has 48 remaining (0 under budget). Next quota of 60 in 51 min
+
+  1 branches were processed
+
+  Checking pull-requests...
+
+  0 pull requests were processed
+
+Finished examining razibayati/Req_HTTP_finnai
+
+[Sun Aug 23 15:03:31 PDT 2020] Finished branch indexing. Indexing took 5 min 44 sec
+Finished: SUCCESS
