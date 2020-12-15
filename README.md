@@ -1,6 +1,6 @@
 # Req_HTTP_finnai
 
-Level 1: I provided Python code 'FinnAI.py.' 
+Level 1: I provided Python code 'Answer.py.' 
 
 It fires HTTP requests for 'timeout' seconds to a web page, and return the 'status_code.'
 
